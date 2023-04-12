@@ -3,7 +3,7 @@
 - 👨‍💻 Tenho interesse na área de programação e planejo ser Dev Full Stack no futuro;
 - 🎓 Possuo formação de Técnico em Automação Industrial (COLTEC-UFMG);
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraugreis&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraugreis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vitoraugreis/vitoraugreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
