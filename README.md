@@ -1,5 +1,8 @@
-### Hi there 👋
+## Olá! Me chamo Vitor Augusto e este é meu perfil 😺
+- 📚 Atualmente curso Sistemas de Informação na UFMG;
+- 👨‍💻 Tenho interesse na área de programação e planejo ser Dev Full Stack no futuro;
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitoraugreis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vitoraugreis/vitoraugreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
