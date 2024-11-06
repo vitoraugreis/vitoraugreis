@@ -1,5 +1,5 @@
 ## Olá! Me chamo Vitor Augusto e este é meu perfil 😺
-- 📚 Atualmente curso Sistemas de Informação na UFMG (3º Período);
+- 📚 Atualmente curso Sistemas de Informação na UFMG (4º Período);
 - 👨‍💻 Tenho interesse na área de programação e estou explorando as oportunidades para decidir o meu futuro.
 - 🎓 Possuo formação de Técnico em Automação Industrial (COLTEC-UFMG);
 
