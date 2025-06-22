@@ -1,6 +1,6 @@
 ## Olá! Me chamo Vitor Augusto e este é meu perfil
 - 📚 Atualmente curso Sistemas de Informação na UFMG (5º Período);
-- 🎓 Técnico em Automação Industrial (COLTEC-UFMG);
+- 🎓 Técnico em Automação Industrial (COLTEC-UFMG).
 
 ## Contatos
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vitoraugreis/)
