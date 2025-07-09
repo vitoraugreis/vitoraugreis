@@ -1,12 +1,14 @@
-## Olá! Me chamo Vitor Augusto e este é meu perfil
-- 📚 Atualmente curso Sistemas de Informação na UFMG (5º Período);
-- 🎓 Técnico em Automação Industrial (COLTEC-UFMG).
+## 👋 Hi, my name is Vitor Augusto! Glad to have you here on my profile.
+- 📚 Currently pursuing a Bachelor's degree in Information Systems at the Federal University of Minas Gerais (UFMG)
+- 🎓 Technical degree in Industrial Automation from Colégio Técnico da UFMG
+- 📊 Interested in data science, algorithms, and databases
+- 🛠️ I develop personal projects as a hobby and a way to learn new technologies
 
-## Contatos
+## Contact
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vitoraugreis/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vitoraugreis@gmail.com)
 
-## Tecnologias
+## Technologies
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,linux)](https://skillicons.dev)
 
 ## Stats
