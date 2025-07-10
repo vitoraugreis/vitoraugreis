@@ -1,7 +1,7 @@
 ## 👋 Hi, my name is Vitor Augusto! Glad to have you here on my profile.
 - 📚 Currently pursuing a Bachelor's degree in Information Systems at the Federal University of Minas Gerais (UFMG)
 - 🎓 Technical degree in Industrial Automation from Technical High School of UFMG
-- 📊 Interested in data science, algorithms, and databases
+- 🤓 Interested in data science, algorithms, and databases
 - 🛠️ I develop personal projects as a hobby and a way to learn new technologies
 
 ## Contact
